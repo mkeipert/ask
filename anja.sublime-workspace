@@ -253,9 +253,10 @@
 	],
 	"file_history":
 	[
+		"/home/mario/Schreibtisch/erledigt/.htaccess",
+		"/home/mario/Schreibtisch/erledigt/style.css",
 		"/tmp/fz3temp-1/leistungen.php",
 		"/home/mario/Schreibtisch/.htaccess",
-		"/home/mario/Schreibtisch/erledigt/.htaccess",
 		"/home/mario/Downloads/betheme-premium-wordpress-theme/documentation/documentation ONLINE.txt",
 		"/home/mario/Schreibtisch/erledigt/kontakt.php",
 		"/home/mario/Schreibtisch/erledigt/config.php",
@@ -379,8 +380,7 @@
 		"/var/www/html/schillinger/site/templates/clients.php",
 		"/var/www/html/schillinger/assets/app/_screen.scss",
 		"/var/www/html/schillinger/assets/js/scripts.js",
-		"/home/mario/Schreibtisch/footer.php",
-		"/home/mario/Schreibtisch/phpinfo.php"
+		"/home/mario/Schreibtisch/footer.php"
 	],
 	"find":
 	{
@@ -398,6 +398,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"content u",
+			"ul",
 			"assets",
 			"alias",
 			"pop",
