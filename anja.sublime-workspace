@@ -253,6 +253,9 @@
 	],
 	"file_history":
 	[
+		"/home/mario/Schreibtisch/erledigt/kurs.php",
+		"/home/mario/Schreibtisch/kurs.php",
+		"/home/mario/Schreibtisch/erledigt/form.php",
 		"/home/mario/Schreibtisch/erledigt/.htaccess",
 		"/home/mario/Schreibtisch/erledigt/style.css",
 		"/tmp/fz3temp-1/leistungen.php",
@@ -377,10 +380,7 @@
 		"/var/www/html/schillinger/assets/app/_medium.scss",
 		"/var/www/html/schillinger/assets/app/_typo.scss",
 		"/var/www/html/schillinger/site/snippets/separator.php",
-		"/var/www/html/schillinger/site/templates/clients.php",
-		"/var/www/html/schillinger/assets/app/_screen.scss",
-		"/var/www/html/schillinger/assets/js/scripts.js",
-		"/home/mario/Schreibtisch/footer.php"
+		"/var/www/html/schillinger/site/templates/clients.php"
 	],
 	"find":
 	{
